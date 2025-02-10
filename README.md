@@ -8,12 +8,6 @@ Download the student version of the code to work with
 Follow the instructors lesson to complete the code
 If you have questions / are not done in time / are missing code the final complete version of the code is available in this Git Space
 
-# Connect 
-Connect with : sakshis@regentparkchc.org 
-For questions / concerns / complaints
-
-# Coding Session 2 Notes:
-
 # Secret Message Encoder and Decoder
 
 ## Key Programming Concepts
@@ -393,4 +387,6 @@ Once you understand these concepts, try creating your own encryption algorithms 
 
 Happy coding! 🚀
 
-
+# Connect 
+Connect with : sakshis@regentparkchc.org 
+For questions / concerns / complaints
